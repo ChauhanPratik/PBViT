@@ -29,11 +29,11 @@ PBViT is a lightweight and accurate Transformer-based model optimized for medica
 
 ## 📚 Citation
 ```bash
-@article{dave2024pbvit,
-  title={Patch-Based Vision Transformer for Accurate Brain Tumor Detection},
-  author={Dave, Darsh and Others},
+@article{chauhan2024pbvit,
+  title={PBVit: A Patch-Based Vision Transformer for Enhanced Brain Tumor Detection},
+  author={Chauhan, Pratikkumar and Lunagaria, Munindra and Verma, Deepak Kumar and Vaghela, Krunal and Tejani, Ganshyam and Sharma, Sunil and Khan, Ahmad Raza},
   journal={IEEE Access},
   year={2024},
-  doi={10.1109/ACCESS.2024.10811909}
+  publisher={IEEE}
 }
 ```
