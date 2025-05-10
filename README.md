@@ -2,7 +2,7 @@
 
 This repository contains the full implementation of the **PBViT (Patch-Based Vision Transformer)** model as described in the published IEEE research paper:
 
-> 📄 [Patch-Based Vision Transformer for Accurate Brain Tumor Detection](https://ieeexplore.ieee.org/abstract/document/10811909), IEEE Access, 2024
+> 📄 [PBVit: A Patch-Based Vision Transformer for Enhanced Brain Tumor Detection](https://ieeexplore.ieee.org/abstract/document/10811909), IEEE Access, 2024
 
 ---
 
@@ -16,3 +16,12 @@ PBViT/
 ├── training/
 │   └── 3_Training.ipynb                         # Full training pipeline with evaluation
 └── README.md
+
+## 🚀 Model Overview
+PBViT is a lightweight and accurate Transformer-based model optimized for medical imaging tasks. Instead of operating on full-resolution brain scans, PBViT processes fixed-size image patches, capturing localized features crucial for tumor localization and classification.
+
+## 🧠 Key Features
+- 🧩 Patch-based processing for improved granularity
+- 🎯 Transformer encoder to model spatial dependencies
+- 🔬 Targeted for brain tumor detection using MRI slices
+- 📊 Reproducible training pipeline with visual metrics and evaluation
