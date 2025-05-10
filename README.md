@@ -26,3 +26,14 @@ PBViT is a lightweight and accurate Transformer-based model optimized for medica
 - 🎯 Transformer encoder to model spatial dependencies
 - 🔬 Targeted for brain tumor detection using MRI slices
 - 📊 Reproducible training pipeline with visual metrics and evaluation
+
+## 📚 Citation
+```bash
+@article{dave2024pbvit,
+  title={Patch-Based Vision Transformer for Accurate Brain Tumor Detection},
+  author={Dave, Darsh and Others},
+  journal={IEEE Access},
+  year={2024},
+  doi={10.1109/ACCESS.2024.10811909}
+}
+```
