@@ -16,6 +16,7 @@ PBViT/
 ├── training/
 │   └── 3_Training.ipynb                         # Full training pipeline with evaluation
 └── README.md
+```
 
 ## 🚀 Model Overview
 PBViT is a lightweight and accurate Transformer-based model optimized for medical imaging tasks. Instead of operating on full-resolution brain scans, PBViT processes fixed-size image patches, capturing localized features crucial for tumor localization and classification.
